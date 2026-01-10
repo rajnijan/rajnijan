@@ -11,28 +11,15 @@ I love transforming complex ideas into **clean, intuitive and engaging experienc
 
 ---
 
-### 🛠️ Tech Stack 
+### 🛠️ My area of expertise are
 
-**Design:**  
-Figma, Adobe XD, Photoshop, Illustrator  
+. Figma, Adobe XD, Photoshop
+. HTML5, CSS3, JavaScript, Bootstrap5  
+. React (UI level)
+. Responsive Design, Wireframing, Prototyping
+. Git, Jira, WinSCP, Visual Studio, Dreamweaver
+. Windows, IOS
 
-**Frontend:**  
-HTML, CSS, JavaScript, Bootstrap, Tailwind  
-
-**UI Frameworks:**  
-React (UI level), Material UI  
-
-**Other:**  
-Git, GitHub, Responsive Design, Wireframing, Prototyping  
-
----
-
-### 📂 What I Do  
-- Website UI/UX Design  
-- Landing Pages  
-- SaaS Dashboards  
-- Mobile App UI  
-- Frontend Implementation  
 
 ---
 
@@ -42,5 +29,7 @@ Git, GitHub, Responsive Design, Wireframing, Prototyping
 - Email: rajni.janjua@gmail.com
 
 ---
+
+
 
 ⭐ *Always open to freelance, remote and collaboration opportunities*
