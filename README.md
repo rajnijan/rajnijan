@@ -5,7 +5,7 @@ I am having 13+ years of experience designing and building user-centric digital 
 
 My area of expertise are
 
-. HTML5, CSS3, JavaScript, Bootstrap5  
+. HTML5, CSS3, JavaScript, Bootstrap5, Sass
 . Figma, Adobe XD, Photoshop
 . React (UI level)
 . Responsive Design, Wireframing, Prototyping
